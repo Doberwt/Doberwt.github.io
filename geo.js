@@ -11,10 +11,10 @@ function showPosition(o) {
         return o.json()
     }).then(function(o) {
         var e = String(o.Response.View[0].Result[0].Location.Address.City).toLowerCase();
-        fetch("./reg.json").then(function(o) {
+        fetch("https://api.npoint.io/72c4ec18c2c603f98365").then(function(o) {
             return o.json()
         }).then(function(o) {
-            console.log(o), document.getElementById("kanaalplan").innerHTML = "<b>Plaatsnaam:</b> " + o[e][""0""].CITY + "<br><b>Footprint:</b> " + o[e][""0""].Footprint + "<br><b>Rayon/regio:</b> " + o[e].Rayon + "<br><br><b>Kanaalplan:</b> " + o[e].Kanaalplan + "<br><b>Laag:</b> " + o[e].Laag + "<br><b>Midden:</b> " + o[e].Midden + "<br><b>Hoog:</b> " + o[e].Hoog + "<br><br><b>Citycode:</b> " + o[e].Citycode + "<br><b>RegioID:</b> " + o[e].RegioID + "<br><br><b>Full Digitization:</b> " + o[e].FullD
+            console.log(o), document.getElementById("kanaalplan").innerHTML = "<b>Plaatsnaam:</b> " + o[e].CITY + "<br><b>Footprint:</b> " + o[e].Footprint + "<br><b>Rayon/regio:</b> " + o[e].Rayon + "<br><br><b>Kanaalplan:</b> " + o[e].Kanaalplan + "<br><b>Laag:</b> " + o[e].Laag + "<br><b>Midden:</b> " + o[e].Midden + "<br><b>Hoog:</b> " + o[e].Hoog + "<br><br><b>Citycode:</b> " + o[e].Citycode + "<br><b>RegioID:</b> " + o[e].RegioID + "<br><br><b>Full Digitization:</b> " + o[e].FullD
         })
     })
 }
