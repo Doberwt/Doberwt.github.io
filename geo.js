@@ -22,7 +22,7 @@ var stad = String(myJson.Response.View[0].Result[0].Location.Address.City)
 
 var stadl = stad.toLowerCase()
 
-fetch('https://api.npoint.io/b79f5f14a7b78523887f')
+fetch('./regios.json')
   .then(function(ding) {
     return ding.json();
   })
