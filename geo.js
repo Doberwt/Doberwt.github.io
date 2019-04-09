@@ -30,8 +30,7 @@ fetch('https://api.npoint.io/72c4ec18c2c603f98365')
   console.log(lookUp)
   
 
-    document.getElementById("demo").innerHTML = 
-    '<b>Plaatsnaam:</b> ' + lookUp[stadl].CITY + "<br>" +
+    document.getElementById("demo").innerHTML = '<b>Plaatsnaam:</b> ' + lookUp[stadl].CITY + "<br>" +
     '<b>Footprint:</b> ' + lookUp[stadl].Footprint + "<br>" +
         '<b>Rayon/regio:</b> ' + lookUp[stadl].Rayon + "<br><br>" +
     '<b>Kanaalplan:</b> ' + lookUp[stadl].Kanaalplan + "<br>" +
