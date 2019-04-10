@@ -1,0 +1,1848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Zenders>
+  <FUD>
+    <Zender>100% NL TV</Zender>
+    <Type>SD</Type>
+    <TS>TS 18</TS>
+    <TS_ID>2066</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>611</MB_ZN>
+    <Freq>442MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>192 TV</Zender>
+    <Type>SD</Type>
+    <TS>TS 19</TS>
+    <TS_ID>2067</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>612</MB_ZN>
+    <Freq>522MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>24 Kitchen (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 40</TS>
+    <TS_ID>2076</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>24</MB_ZN>
+    <Freq>322MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>24 Kitchen (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 01</TS>
+    <TS_ID>2049</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>945</MB_ZN>
+    <Freq>274MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>2M</Zender>
+    <Type>SD</Type>
+    <TS>TS 07</TS>
+    <TS_ID>2055</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>77</MB_ZN>
+    <Freq>410MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>AL Arabiya</Zender>
+    <Type>SD</Type>
+    <TS>TS 04</TS>
+    <TS_ID>2052</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>780</MB_ZN>
+    <Freq>482MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Al Jazeera</Zender>
+    <Type>SD</Type>
+    <TS>TS 04</TS>
+    <TS_ID>2052</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>784</MB_ZN>
+    <Freq>482MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Al Jazeera English</Zender>
+    <Type>SD</Type>
+    <TS>TS 22</TS>
+    <TS_ID>2070</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>506</MB_ZN>
+    <Freq>498MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>AMC </Zender>
+    <Type>HD</Type>
+    <TS>TS 18</TS>
+    <TS_ID>2066</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>131</MB_ZN>
+    <Freq>442MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Animal Planet HD</Zender>
+    <Type>HD</Type>
+    <TS>TS 01</TS>
+    <TS_ID>2049</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>208</MB_ZN>
+    <Freq>274MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>ARD (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 02</TS>
+    <TS_ID>2050</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>54</MB_ZN>
+    <Freq>282MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>ARD (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 14</TS>
+    <TS_ID>2112</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>950</MB_ZN>
+    <Freq>290MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Arte</Zender>
+    <Type>SD</Type>
+    <TS>TS 03</TS>
+    <TS_ID>2051</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>72</MB_ZN>
+    <Freq>490MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>ATV Avrupa</Zender>
+    <Type>SD</Type>
+    <TS>TS 18</TS>
+    <TS_ID>2066</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>777</MB_ZN>
+    <Freq>442MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Baby TV</Zender>
+    <Type>SD</Type>
+    <TS>TS 29</TS>
+    <TS_ID>2102</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>310</MB_ZN>
+    <Freq>362MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>BBC Entertaiment</Zender>
+    <Type>SD</Type>
+    <TS>TS 29</TS>
+    <TS_ID>2102</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>65</MB_ZN>
+    <Freq>362MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>BBC First (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 21</TS>
+    <TS_ID>2069</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>22</MB_ZN>
+    <Freq>338MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>BBC First (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 41</TS>
+    <TS_ID>18</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>943</MB_ZN>
+    <Freq>474MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>BBC Four / Ceebies</Zender>
+    <Type>SD</Type>
+    <TS>TS 19</TS>
+    <TS_ID>2067</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>64</MB_ZN>
+    <Freq>522MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>BBC One (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 02</TS>
+    <TS_ID>2050</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>61</MB_ZN>
+    <Freq>282MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>BBC One (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 05</TS>
+    <TS_ID>2053</TS_ID>
+    <TV_ZN>61</TV_ZN>
+    <MB_ZN>952</MB_ZN>
+    <Freq>506MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>BBC Three / CBBC</Zender>
+    <Type>SD</Type>
+    <TS>TS 21</TS>
+    <TS_ID>2069</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>63</MB_ZN>
+    <Freq>338MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>BBC Two (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 23</TS>
+    <TS_ID>2071</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>62</MB_ZN>
+    <Freq>306MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>BBC Two (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 05</TS>
+    <TS_ID>2053</TS_ID>
+    <TV_ZN>62</TV_ZN>
+    <MB_ZN>953</MB_ZN>
+    <Freq>506MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>BBC Worldnews</Zender>
+    <Type>SD</Type>
+    <TS>TS 05</TS>
+    <TS_ID>2053</TS_ID>
+    <TV_ZN>504</TV_ZN>
+    <MB_ZN>504</MB_ZN>
+    <Freq>506MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Boomerang</Zender>
+    <Type>SD</Type>
+    <TS>TS 29</TS>
+    <TS_ID>2102</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>309</MB_ZN>
+    <Freq>362MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Stingray Brava</Zender>
+    <Type>SD</Type>
+    <TS>TS 03</TS>
+    <TS_ID>2051</TS_ID>
+    <TV_ZN>607</TV_ZN>
+    <MB_ZN>607</MB_ZN>
+    <Freq>490MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Canvas (VRT) (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 16</TS>
+    <TS_ID>2063</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>52</MB_ZN>
+    <Freq>378MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Canvas (VRT) (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 05</TS>
+    <TS_ID>2053</TS_ID>
+    <TV_ZN>52</TV_ZN>
+    <MB_ZN>949</MB_ZN>
+    <Freq>506MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Cartoon Network</Zender>
+    <Type>SD</Type>
+    <TS>TS 17</TS>
+    <TS_ID>2064</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>307</MB_ZN>
+    <Freq>354MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>CBS Reality </Zender>
+    <Type>SD</Type>
+    <TS>TS 19</TS>
+    <TS_ID>2067</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>132</MB_ZN>
+    <Freq>522MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>CGTN </Zender>
+    <Type>SD</Type>
+    <TS>TS 03</TS>
+    <TS_ID>2051</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>508</MB_ZN>
+    <Freq>490MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>CI</Zender>
+    <Type>SD</Type>
+    <TS>TS 29</TS>
+    <TS_ID>2102</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>122</MB_ZN>
+    <Freq>362MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>CNBC Europe</Zender>
+    <Type>SD</Type>
+    <TS>TS 29</TS>
+    <TS_ID>2102</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>507</MB_ZN>
+    <Freq>362MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>CNN</Zender>
+    <Type>SD</Type>
+    <TS>TS 27</TS>
+    <TS_ID>2100</TS_ID>
+    <TV_ZN>503</TV_ZN>
+    <MB_ZN>503</MB_ZN>
+    <Freq>450MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Comedy Central (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 13</TS>
+    <TS_ID>2061</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>15</MB_ZN>
+    <Freq>298MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Comedy Central (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 08</TS>
+    <TS_ID>2056</TS_ID>
+    <TV_ZN>15</TV_ZN>
+    <MB_ZN>936</MB_ZN>
+    <Freq>402MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Comedy Central Extra</Zender>
+    <Type>SD</Type>
+    <TS>TS 17</TS>
+    <TS_ID>2064</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>124</MB_ZN>
+    <Freq>354MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>DanceTrippin TV</Zender>
+    <Type>HD</Type>
+    <TS>TS 29</TS>
+    <TS_ID>2102</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>602</MB_ZN>
+    <Freq>362MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Discovery Channel (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 16</TS>
+    <TS_ID>2063</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>17</MB_ZN>
+    <Freq>378MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Discovery Channel S(D)</Zender>
+    <Type>SD</Type>
+    <TS>TS 11</TS>
+    <TS_ID>2059</TS_ID>
+    <TV_ZN>17</TV_ZN>
+    <MB_ZN>938</MB_ZN>
+    <Freq>330MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Discovery Science</Zender>
+    <Type>HD</Type>
+    <TS>TS 17</TS>
+    <TS_ID>2064</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>202</MB_ZN>
+    <Freq>354MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Discovery World</Zender>
+    <Type>SD</Type>
+    <TS>TS 17</TS>
+    <TS_ID>2064</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>203</MB_ZN>
+    <Freq>354MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Disney Channel (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 21</TS>
+    <TS_ID>2069</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>27</MB_ZN>
+    <Freq>338MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Disney Channel (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 14</TS>
+    <TS_ID>2112</TS_ID>
+    <TV_ZN>27</TV_ZN>
+    <MB_ZN>961</MB_ZN>
+    <Freq>290MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Disney junior</Zender>
+    <Type>SD</Type>
+    <TS>TS 20</TS>
+    <TS_ID>2068</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>302</MB_ZN>
+    <Freq>538MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Disney XD</Zender>
+    <Type>SD</Type>
+    <TS>TS 26</TS>
+    <TS_ID>2099</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>301</MB_ZN>
+    <Freq>394MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Djazz TV</Zender>
+    <Type>SD</Type>
+    <TS>TS 17</TS>
+    <TS_ID>2064</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>609</MB_ZN>
+    <Freq>354MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>DUSK</Zender>
+    <Type>SD</Type>
+    <TS>TS 20</TS>
+    <TS_ID>2068</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>795</MB_ZN>
+    <Freq>538MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>E! Entertainment</Zender>
+    <Type>SD</Type>
+    <TS>TS 21</TS>
+    <TS_ID>2069</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>126</MB_ZN>
+    <Freq>338MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Eén (VRT) (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 23</TS>
+    <TS_ID>2071</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>51</MB_ZN>
+    <Freq>306MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Eén (VRT) (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 05</TS>
+    <TS_ID>2053</TS_ID>
+    <TV_ZN>51</TV_ZN>
+    <MB_ZN>948</MB_ZN>
+    <Freq>506MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Erotiek Still</Zender>
+    <Type>SD</Type>
+    <TS>TS 03</TS>
+    <TS_ID>2051</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>790</MB_ZN>
+    <Freq>490MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Euro D</Zender>
+    <Type>SD</Type>
+    <TS>TS 18</TS>
+    <TS_ID>2066</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>771</MB_ZN>
+    <Freq>442MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>EuroNews</Zender>
+    <Type>SD</Type>
+    <TS>TS 22</TS>
+    <TS_ID>2070</TS_ID>
+    <TV_ZN>505</TV_ZN>
+    <MB_ZN>505</MB_ZN>
+    <Freq>498MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Eurosport 1 (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 26</TS>
+    <TS_ID>2099</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>20</MB_ZN>
+    <Freq>394MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Eurosport 1 (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 13</TS>
+    <TS_ID>2061</TS_ID>
+    <TV_ZN>20</TV_ZN>
+    <MB_ZN>941</MB_ZN>
+    <Freq>298MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Eurosport 2 (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 34</TS>
+    <TS_ID>2107</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>411</MB_ZN>
+    <Freq>418MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>EuroStar</Zender>
+    <Type>SD</Type>
+    <TS>TS 18</TS>
+    <TS_ID>2066</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>772</MB_ZN>
+    <Freq>442MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Evenementenkanaal</Zender>
+    <Type>SD</Type>
+    <TS>TS 12</TS>
+    <TS_ID>2060</TS_ID>
+    <TV_ZN>999</TV_ZN>
+    <MB_ZN>999</MB_ZN>
+    <Freq>514MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Evil Angels</Zender>
+    <Type>SD</Type>
+    <TS>TS 20</TS>
+    <TS_ID>2068</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>793</MB_ZN>
+    <Freq>538MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Extreme Sports</Zender>
+    <Type>SD</Type>
+    <TS>TS 19</TS>
+    <TS_ID>2067</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>412</MB_ZN>
+    <Freq>522MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Family 7</Zender>
+    <Type>SD</Type>
+    <TS>TS 03</TS>
+    <TS_ID>2051</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>230</MB_ZN>
+    <Freq>490MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Fashion TV (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 02</TS>
+    <TS_ID>2050</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>133</MB_ZN>
+    <Freq>282MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Film 1 Action (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 37</TS>
+    <TS_ID>2073</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>102</MB_ZN>
+    <Freq>426MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Film 1 Drama (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 37</TS>
+    <TS_ID>2073</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>104</MB_ZN>
+    <Freq>426MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Film 1 Family (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 37</TS>
+    <TS_ID>2073</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>103</MB_ZN>
+    <Freq>426MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Film 1 Premiere (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 37</TS>
+    <TS_ID>2073</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>101</MB_ZN>
+    <Freq>426MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Film 1 Sundance</Zender>
+    <Type>SD</Type>
+    <TS>TS 37</TS>
+    <TS_ID>2073</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>105</MB_ZN>
+    <Freq>426MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Film1 Applicatie</Zender>
+    <Type></Type>
+    <TS>TS 32</TS>
+    <TS_ID>2105</TS_ID>
+    <TV_ZN>n/a</TV_ZN>
+    <MB_ZN>n/a</MB_ZN>
+    <Freq>474MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Fine Living (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 29</TS>
+    <TS_ID>2102</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>139</MB_ZN>
+    <Freq>362MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Food Network</Zender>
+    <Type>HD</Type>
+    <TS>TS 19</TS>
+    <TS_ID>2067</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>138</MB_ZN>
+    <Freq>522MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>FOX (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 33</TS>
+    <TS_ID>2106</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>11</MB_ZN>
+    <Freq>314MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>FOX (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 01</TS>
+    <TS_ID>2049</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>935</MB_ZN>
+    <Freq>274MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Fox Sports 1 Eredivisie (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 27</TS>
+    <TS_ID>2100</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>421</MB_ZN>
+    <Freq>450MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Fox Sports 2 (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 33</TS>
+    <TS_ID>2106</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>422</MB_ZN>
+    <Freq>314MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Fox Sports 3 Eredivisie (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 28</TS>
+    <TS_ID>2101</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>423</MB_ZN>
+    <Freq>458MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Fox Sports 4 HD</Zender>
+    <Type>HD</Type>
+    <TS>TS 33</TS>
+    <TS_ID>2106</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>424</MB_ZN>
+    <Freq>314MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Fox Sports 5 Eredivisie (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 16</TS>
+    <TS_ID>2063</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>425</MB_ZN>
+    <Freq>378MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Fox Sports 6 International (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 24</TS>
+    <TS_ID>2097</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>426</MB_ZN>
+    <Freq>434MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Fox Sports Info</Zender>
+    <Type>SD</Type>
+    <TS>TS 22</TS>
+    <TS_ID>2070</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>420</MB_ZN>
+    <Freq>498MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>GPTV</Zender>
+    <Type>SD</Type>
+    <TS>TS 44</TS>
+    <TS_ID>3004</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>34</MB_ZN>
+    <Freq>266MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Haberturk TV</Zender>
+    <Type>SD</Type>
+    <TS>TS 18</TS>
+    <TS_ID>2066</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>773</MB_ZN>
+    <Freq>442MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>History (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 40</TS>
+    <TS_ID>2076</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>28</MB_ZN>
+    <Freq>322MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>History (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 08</TS>
+    <TS_ID>2056</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>947</MB_ZN>
+    <Freq>402MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>HOMINGCHANNEL D4a</Zender>
+    <Type>n/a</Type>
+    <TS>TS 32</TS>
+    <TS_ID>2105</TS_ID>
+    <TV_ZN>n/a</TV_ZN>
+    <MB_ZN>n/a</MB_ZN>
+    <Freq>474MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>HOMINGCHANNEL HZN </Zender>
+    <Type>n/a</Type>
+    <TS>TS 38</TS>
+    <TS_ID>2074</TS_ID>
+    <TV_ZN>n/a</TV_ZN>
+    <MB_ZN>n/a</MB_ZN>
+    <Freq>466MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Horse &amp; Country</Zender>
+    <Type>SD</Type>
+    <TS>TS 04</TS>
+    <TS_ID>2052</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>136</MB_ZN>
+    <Freq>482MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Investigation Discovery (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 24</TS>
+    <TS_ID>2097</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>123</MB_ZN>
+    <Freq>434MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Ketnet (VRT)</Zender>
+    <Type>SD</Type>
+    <TS>TS 06</TS>
+    <TS_ID>2054</TS_ID>
+    <TV_ZN>53</TV_ZN>
+    <MB_ZN>53</MB_ZN>
+    <Freq>346MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>MBC</Zender>
+    <Type>SD</Type>
+    <TS>TS 20</TS>
+    <TS_ID>2068</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>781</MB_ZN>
+    <Freq>538MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Mediaset Italia</Zender>
+    <Type>SD</Type>
+    <TS>TS 03</TS>
+    <TS_ID>2051</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>74</MB_ZN>
+    <Freq>490MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Mezzo</Zender>
+    <Type>SD</Type>
+    <TS>TS 18</TS>
+    <TS_ID>2066</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>608</MB_ZN>
+    <Freq>442MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Motorsport TV</Zender>
+    <Type>HD</Type>
+    <TS>TS 18</TS>
+    <TS_ID>2066</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>413</MB_ZN>
+    <Freq>442MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>MTV Brand New</Zender>
+    <Type>SD</Type>
+    <TS>TS 29</TS>
+    <TS_ID>2102</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>604</MB_ZN>
+    <Freq>362MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>MTV (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 23</TS>
+    <TS_ID>2071</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>23</MB_ZN>
+    <Freq>306MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>MTV (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 27</TS>
+    <TS_ID>2100</TS_ID>
+    <TV_ZN>23</TV_ZN>
+    <MB_ZN>944</MB_ZN>
+    <Freq>450MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>MTV Live (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 02</TS>
+    <TS_ID>2050</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>613</MB_ZN>
+    <Freq>282MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>MTV Music 24</Zender>
+    <Type>SD</Type>
+    <TS>TS 20</TS>
+    <TS_ID>2068</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>601</MB_ZN>
+    <Freq>538MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>MvH Hard</Zender>
+    <Type>SD</Type>
+    <TS>TS 20</TS>
+    <TS_ID>2068</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>796</MB_ZN>
+    <Freq>538MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>My Zen TV (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 03</TS>
+    <TS_ID>2051</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>134</MB_ZN>
+    <Freq>490MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>National Geographic (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 16</TS>
+    <TS_ID>2063</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>18</MB_ZN>
+    <Freq>378MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>National Geographic (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 13</TS>
+    <TS_ID>2061</TS_ID>
+    <TV_ZN>18</TV_ZN>
+    <MB_ZN>939</MB_ZN>
+    <Freq>298MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>National Geographic Wild (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 40</TS>
+    <TS_ID>2076</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>204</MB_ZN>
+    <Freq>322MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>NDR</Zender>
+    <Type>SD</Type>
+    <TS>TS 14</TS>
+    <TS_ID>2112</TS_ID>
+    <TV_ZN>57</TV_ZN>
+    <MB_ZN>57</MB_ZN>
+    <Freq>290MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>NET 5 (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 06</TS>
+    <TS_ID>2054</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>9</MB_ZN>
+    <Freq>346MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>NET 5 (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 27</TS>
+    <TS_ID>2100</TS_ID>
+    <TV_ZN>9</TV_ZN>
+    <MB_ZN>933</MB_ZN>
+    <Freq>450MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Nick Hits</Zender>
+    <Type>SD</Type>
+    <TS>TS 29</TS>
+    <TS_ID>2102</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>304</MB_ZN>
+    <Freq>362MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Nick Junior</Zender>
+    <Type>SD</Type>
+    <TS>TS 20</TS>
+    <TS_ID>2068</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>306</MB_ZN>
+    <Freq>538MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Nick Toons</Zender>
+    <Type>SD</Type>
+    <TS>TS 20</TS>
+    <TS_ID>2068</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>303</MB_ZN>
+    <Freq>538MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Nickelodeon (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 07</TS>
+    <TS_ID>2055</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>29</MB_ZN>
+    <Freq>410MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Nickelodeon SD / Spike</Zender>
+    <Type>SD</Type>
+    <TS>TS 11</TS>
+    <TS_ID>2059</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>937</MB_ZN>
+    <Freq>330MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>NPO 1 (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 25</TS>
+    <TS_ID>2098</TS_ID>
+    <TV_ZN>1</TV_ZN>
+    <MB_ZN>1</MB_ZN>
+    <Freq>386MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>NPO 1 (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 07</TS>
+    <TS_ID>2055</TS_ID>
+    <TV_ZN>925</TV_ZN>
+    <MB_ZN>925</MB_ZN>
+    <Freq>410MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>NPO 2 (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 25</TS>
+    <TS_ID>2098</TS_ID>
+    <TV_ZN>2</TV_ZN>
+    <MB_ZN>2</MB_ZN>
+    <Freq>386MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>NPO 2 (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 07</TS>
+    <TS_ID>2055</TS_ID>
+    <TV_ZN>926</TV_ZN>
+    <MB_ZN>926</MB_ZN>
+    <Freq>410MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>NPO 2 Extra</Zender>
+    <Type>SD</Type>
+    <TS>TS 29</TS>
+    <TS_ID>2102</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>222</MB_ZN>
+    <Freq>362MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>NPO 3 (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 25</TS>
+    <TS_ID>2098</TS_ID>
+    <TV_ZN>3</TV_ZN>
+    <MB_ZN>3</MB_ZN>
+    <Freq>386MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>NPO 3 (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 07</TS>
+    <TS_ID>2055</TS_ID>
+    <TV_ZN>927</TV_ZN>
+    <MB_ZN>927</MB_ZN>
+    <Freq>410MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>NPO 3 Extra (was NPO 101)</Zender>
+    <Type>SD</Type>
+    <TS>TS 20</TS>
+    <TS_ID>2068</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>128</MB_ZN>
+    <Freq>538MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>NPO Nieuws</Zender>
+    <Type>SD</Type>
+    <TS>TS 12</TS>
+    <TS_ID>2060</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>501</MB_ZN>
+    <Freq>514MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>NPO Politiek</Zender>
+    <Type>SD</Type>
+    <TS>TS 12</TS>
+    <TS_ID>2060</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>502</MB_ZN>
+    <Freq>514MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>NPO Zapp Xtra / NPO 1 Extra</Zender>
+    <Type>SD</Type>
+    <TS>TS 03</TS>
+    <TS_ID>2051</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>311</MB_ZN>
+    <Freq>490MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>ONS </Zender>
+    <Type>SD</Type>
+    <TS>TS 12</TS>
+    <TS_ID>2060</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>50</MB_ZN>
+    <Freq>514MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Out TV (HD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 18</TS>
+    <TS_ID>2066</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>129 / 798</MB_ZN>
+    <Freq>442MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Passie XXX (Xotic)</Zender>
+    <Type>SD</Type>
+    <TS>TS 20</TS>
+    <TS_ID>2068</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>794</MB_ZN>
+    <Freq>538MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Pebble TV</Zender>
+    <Type>SD</Type>
+    <TS>TS 04</TS>
+    <TS_ID>2052</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>305</MB_ZN>
+    <Freq>482MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Penthouse</Zender>
+    <Type>SD</Type>
+    <TS>TS 20</TS>
+    <TS_ID>2068</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>792</MB_ZN>
+    <Freq>538MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Radio Actual</Zender>
+    <Type></Type>
+    <TS>TS 32</TS>
+    <TS_ID>2105</TS_ID>
+    <TV_ZN>n/a</TV_ZN>
+    <MB_ZN>n/a</MB_ZN>
+    <Freq>474MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>RT</Zender>
+    <Type>SD</Type>
+    <TS>TS 22</TS>
+    <TS_ID>2070</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>509</MB_ZN>
+    <Freq>498MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>RTL 4 (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 28</TS>
+    <TS_ID>2101</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>4</MB_ZN>
+    <Freq>458MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>RTL 4 (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 01</TS>
+    <TS_ID>2049</TS_ID>
+    <TV_ZN>4</TV_ZN>
+    <MB_ZN>928</MB_ZN>
+    <Freq>274MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>RTL 5 (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 28</TS>
+    <TS_ID>2101</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>5</MB_ZN>
+    <Freq>458MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>RTL 5 (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 01</TS>
+    <TS_ID>2049</TS_ID>
+    <TV_ZN>5</TV_ZN>
+    <MB_ZN>929</MB_ZN>
+    <Freq>274MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>RTL 7 (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 14</TS>
+    <TS_ID>2112</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>7</MB_ZN>
+    <Freq>290MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>RTL 7 (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 11</TS>
+    <TS_ID>2059</TS_ID>
+    <TV_ZN>7</TV_ZN>
+    <MB_ZN>931</MB_ZN>
+    <Freq>330MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>RTL 8 (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 26</TS>
+    <TS_ID>2099</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>10</MB_ZN>
+    <Freq>394MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>RTL 8 (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 11</TS>
+    <TS_ID>2059</TS_ID>
+    <TV_ZN>10</TV_ZN>
+    <MB_ZN>934</MB_ZN>
+    <Freq>330MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>RTL Crime (HD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 29</TS>
+    <TS_ID>2102</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>120</MB_ZN>
+    <Freq>362MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>RTL Lounge (HD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 19</TS>
+    <TS_ID>2067</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>140</MB_ZN>
+    <Freq>522MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>RTL Telekids (HD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 19</TS>
+    <TS_ID>2067</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>312</MB_ZN>
+    <Freq>522MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>RTL Television</Zender>
+    <Type>SD</Type>
+    <TS>TS 08</TS>
+    <TS_ID>2056</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>58</MB_ZN>
+    <Freq>402MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>RTL Z (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 14</TS>
+    <TS_ID>2112</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>12</MB_ZN>
+    <Freq>290MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>RTL Z (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 26</TS>
+    <TS_ID>2099</TS_ID>
+    <TV_ZN>12</TV_ZN>
+    <MB_ZN>975</MB_ZN>
+    <Freq>394MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>RTV-7</Zender>
+    <Type>SD</Type>
+    <TS>TS 30</TS>
+    <TS_ID>2103</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>75</MB_ZN>
+    <Freq>530MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Sat 1</Zender>
+    <Type>SD</Type>
+    <TS>TS 12</TS>
+    <TS_ID>2060</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>59</MB_ZN>
+    <Freq>514MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>SBS 6 (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 11</TS>
+    <TS_ID>2059</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>6</MB_ZN>
+    <Freq>330MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>SBS 6 (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 06</TS>
+    <TS_ID>2054</TS_ID>
+    <TV_ZN>6</TV_ZN>
+    <MB_ZN>930</MB_ZN>
+    <Freq>346MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>SBS 9 (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 38</TS>
+    <TS_ID>2074</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>19</MB_ZN>
+    <Freq>466MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>SBS 9 (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 01</TS>
+    <TS_ID>2049</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>940</MB_ZN>
+    <Freq>274MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Secret Circle</Zender>
+    <Type>SD</Type>
+    <TS>TS 30</TS>
+    <TS_ID>2103</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>791</MB_ZN>
+    <Freq>530MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>SET Asia</Zender>
+    <Type>SD</Type>
+    <TS>TS 04</TS>
+    <TS_ID>2052</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>765</MB_ZN>
+    <Freq>482MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Shorts TV</Zender>
+    <Type>SD</Type>
+    <TS>TS 19</TS>
+    <TS_ID>2067</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>125</MB_ZN>
+    <Freq>522MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Show TV</Zender>
+    <Type>SD</Type>
+    <TS>TS 04</TS>
+    <TS_ID>2052</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>770</MB_ZN>
+    <Freq>482MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>SLAM!TV</Zender>
+    <Type>SD</Type>
+    <TS>TS 19</TS>
+    <TS_ID>2067</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>603</MB_ZN>
+    <Freq>522MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Spike (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 24</TS>
+    <TS_ID>2097</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>16</MB_ZN>
+    <Freq>434MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Spike (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 26</TS>
+    <TS_ID>2099</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN></MB_ZN>
+    <Freq>394MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Star Gold</Zender>
+    <Type>SD</Type>
+    <TS>TS 04</TS>
+    <TS_ID>2052</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>761</MB_ZN>
+    <Freq>482MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>StarPlus</Zender>
+    <Type>SD</Type>
+    <TS>TS 04</TS>
+    <TS_ID>2052</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>760</MB_ZN>
+    <Freq>482MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Stingray Lite</Zender>
+    <Type>SD</Type>
+    <TS>TS 19</TS>
+    <TS_ID>2067</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>605</MB_ZN>
+    <Freq>522MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>TLC (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 33</TS>
+    <TS_ID>2106</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>21</MB_ZN>
+    <Freq>314MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>TLC (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 13</TS>
+    <TS_ID>2061</TS_ID>
+    <TV_ZN>21</TV_ZN>
+    <MB_ZN>942</MB_ZN>
+    <Freq>298MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Travel Channel (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 40</TS>
+    <TS_ID>2076</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>210</MB_ZN>
+    <Freq>322MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>TRT 1</Zender>
+    <Type>SD</Type>
+    <TS>TS 18</TS>
+    <TS_ID>2066</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>775</MB_ZN>
+    <Freq>442MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>TRT Çocuk</Zender>
+    <Type>SD</Type>
+    <TS>TS 17</TS>
+    <TS_ID>2064</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>776</MB_ZN>
+    <Freq>354MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>TRT Turk</Zender>
+    <Type>SD</Type>
+    <TS>TS 22</TS>
+    <TS_ID>2070</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>76</MB_ZN>
+    <Freq>498MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Turk Muzik</Zender>
+    <Type>SD</Type>
+    <TS>TS 04</TS>
+    <TS_ID>2052</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>778</MB_ZN>
+    <Freq>482MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>TV 5 MONDE</Zender>
+    <Type>SD</Type>
+    <TS>TS 22</TS>
+    <TS_ID>2070</TS_ID>
+    <TV_ZN>71</TV_ZN>
+    <MB_ZN>71</MB_ZN>
+    <Freq>498MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>TV 538</Zender>
+    <Type>SD</Type>
+    <TS>TS 29</TS>
+    <TS_ID>2102</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>538</MB_ZN>
+    <Freq>362MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>TV 8</Zender>
+    <Type>SD</Type>
+    <TS>TS 18</TS>
+    <TS_ID>2066</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>774</MB_ZN>
+    <Freq>442MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>TV Oranje</Zender>
+    <Type>SD</Type>
+    <TS>TS 18</TS>
+    <TS_ID>2066</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>610</MB_ZN>
+    <Freq>442MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>TVE International</Zender>
+    <Type>SD</Type>
+    <TS>TS 26</TS>
+    <TS_ID>2099</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>73</MB_ZN>
+    <Freq>394MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>TVM Europe</Zender>
+    <Type>SD</Type>
+    <TS>TS 04</TS>
+    <TS_ID>2052</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>782</MB_ZN>
+    <Freq>482MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Veronica / Disney XD (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 27</TS>
+    <TS_ID>2100</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>8</MB_ZN>
+    <Freq>450MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Veronica / Disney XD (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 08</TS>
+    <TS_ID>2056</TS_ID>
+    <TV_ZN>8</TV_ZN>
+    <MB_ZN>932</MB_ZN>
+    <Freq>402MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>VH1 Classic</Zender>
+    <Type>SD</Type>
+    <TS>TS 17</TS>
+    <TS_ID>2064</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>606</MB_ZN>
+    <Freq>354MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Viceland (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 24</TS>
+    <TS_ID>2097</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>26</MB_ZN>
+    <Freq>434MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>WDR</Zender>
+    <Type>SD</Type>
+    <TS>TS 28</TS>
+    <TS_ID>2101</TS_ID>
+    <TV_ZN>56</TV_ZN>
+    <MB_ZN>56</MB_ZN>
+    <Freq>458MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Xite HD</Zender>
+    <Type>HD</Type>
+    <TS>TS 40</TS>
+    <TS_ID>2076</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>25</MB_ZN>
+    <Freq>322MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>X-MO (24 uurs versie)</Zender>
+    <Type>SD</Type>
+    <TS>TS 20</TS>
+    <TS_ID>2068</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>797</MB_ZN>
+    <Freq>538MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>ZDF (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 02</TS>
+    <TS_ID>2050</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>55</MB_ZN>
+    <Freq>282MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>ZDF (SD)</Zender>
+    <Type>SD</Type>
+    <TS>TS 08</TS>
+    <TS_ID>2056</TS_ID>
+    <TV_ZN>55</TV_ZN>
+    <MB_ZN>951</MB_ZN>
+    <Freq>402MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Zee Cinema</Zender>
+    <Type>SD</Type>
+    <TS>TS 04</TS>
+    <TS_ID>2052</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>763</MB_ZN>
+    <Freq>482MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Zee TV</Zender>
+    <Type>SD</Type>
+    <TS>TS 04</TS>
+    <TS_ID>2052</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>762</MB_ZN>
+    <Freq>482MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Zender van de Maand</Zender>
+    <Type>SD</Type>
+    <TS>TS 34</TS>
+    <TS_ID>2107</TS_ID>
+    <TV_ZN>996</TV_ZN>
+    <MB_ZN>996</MB_ZN>
+    <Freq>418MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>ZIGGO Live Events</Zender>
+    <Type>SD</Type>
+    <TS>TS 16</TS>
+    <TS_ID>2063</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>450</MB_ZN>
+    <Freq>378MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>ZIGGO Live Events FOX sports</Zender>
+    <Type>HD</Type>
+    <TS>TS 24</TS>
+    <TS_ID>2097</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>451</MB_ZN>
+    <Freq>434MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>ZIGGO Live Events FOX sports</Zender>
+    <Type>HD</Type>
+    <TS>TS 16</TS>
+    <TS_ID>2063</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>452</MB_ZN>
+    <Freq>378MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>ZIGGO Live Events FOX sports</Zender>
+    <Type>HD</Type>
+    <TS>TS 27</TS>
+    <TS_ID>2100</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>461</MB_ZN>
+    <Freq>450MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>ZIGGO Live Events FOX sports</Zender>
+    <Type>HD</Type>
+    <TS>TS 28</TS>
+    <TS_ID>2101</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>462</MB_ZN>
+    <Freq>458MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>ZIGGO Live Events FOX sports</Zender>
+    <Type>HD</Type>
+    <TS>TS 30</TS>
+    <TS_ID>2103</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>463</MB_ZN>
+    <Freq>530MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>ZIGGO Live Events FOX sports</Zender>
+    <Type>HD</Type>
+    <TS>TS 30</TS>
+    <TS_ID>2103</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>464</MB_ZN>
+    <Freq>530MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>ZIGGO Live Events FOX sports</Zender>
+    <Type>HD</Type>
+    <TS>TS 33</TS>
+    <TS_ID>2106</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>465</MB_ZN>
+    <Freq>314MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>ZIGGO Live Events FOX sports</Zender>
+    <Type>HD</Type>
+    <TS>TS 33</TS>
+    <TS_ID>2106</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>466</MB_ZN>
+    <Freq>314MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>ZIGGO Sport (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 38</TS>
+    <TS_ID>2074</TS_ID>
+    <TV_ZN>14</TV_ZN>
+    <MB_ZN>14</MB_ZN>
+    <Freq>466MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Ziggo Sport Extra 1</Zender>
+    <Type>SD</Type>
+    <TS>TS 17</TS>
+    <TS_ID>2064</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>405</MB_ZN>
+    <Freq>354MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Ziggo Sport Extra 2</Zender>
+    <Type>SD</Type>
+    <TS>TS 17</TS>
+    <TS_ID>2064</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>406</MB_ZN>
+    <Freq>354MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Ziggo Sport Golf (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 24</TS>
+    <TS_ID>2097</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>403</MB_ZN>
+    <Freq>434MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Ziggo Sport Racing (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 23</TS>
+    <TS_ID>2071</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>404</MB_ZN>
+    <Freq>306MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Ziggo Sport Select (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 21</TS>
+    <TS_ID>2069</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>401</MB_ZN>
+    <Freq>338MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Ziggo Sport Voetbal (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 23</TS>
+    <TS_ID>2071</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>402</MB_ZN>
+    <Freq>306MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Ziggo Testbeeld 16:9 (Horizon)</Zender>
+    <Type>SD</Type>
+    <TS>TS 37</TS>
+    <TS_ID>2074</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>997</MB_ZN>
+    <Freq>426MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>ZIGGO TV</Zender>
+    <Type>SD</Type>
+    <TS>TS 22</TS>
+    <TS_ID>2070</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>13</MB_ZN>
+    <Freq>498MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>ZIGGO TV (HD)</Zender>
+    <Type>HD</Type>
+    <TS>TS 21</TS>
+    <TS_ID>2069</TS_ID>
+    <TV_ZN>13</TV_ZN>
+    <MB_ZN>13</MB_ZN>
+    <Freq>338MHz</Freq>
+  </FUD>
+  <FUD>
+    <Zender>Zing</Zender>
+    <Type>SD</Type>
+    <TS>TS 04</TS>
+    <TS_ID>2052</TS_ID>
+    <TV_ZN></TV_ZN>
+    <MB_ZN>764</MB_ZN>
+    <Freq>482MHz</Freq>
+  </FUD>
+</Zenders>
