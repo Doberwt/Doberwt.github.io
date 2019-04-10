@@ -18,13 +18,27 @@ font-weight: 300;
 body {
   background-color: black;
 }
-
+	
+table,th,td {
+  border : 1px solid white;
+font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+  border-collapse: collapse;
+}
+	
+th,td {
+  padding: 5px;
+	}
+	
 </style>
 <body onload = "getLocation()">
 <h1 class="header">Locatiegegevens</h1>
 
 <p class="text" id="kanaalplan"></p>
-
+<br><br>
+<button type="button" onclick="loadDoc()">Zenderinformatie</button>
+<br><br>
+<table id="demo"></table>
+	
 <script type="text/javascript" src="geo.js"></script>
 
 </body>
