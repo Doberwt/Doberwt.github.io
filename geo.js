@@ -29,6 +29,18 @@ function loadDoc() {
   xhttp.open("GET", "https://doberwt.github.io/zend", true);
   xhttp.send();
 }
+
+function loadDoc() {
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      myFunction(this);
+    }
+  };
+  xhttp.open("GET", "https://doberwt.github.io/zend", true);
+  xhttp.send();
+}
+
 function myFunction(xml) {
   var i;
   var xmlDoc = xml.responseXML;
